@@ -2,7 +2,6 @@
 CSCI 520, Assignment 1
 
 Sunoh Yoo
-3746989106
 
 <Acomplished>
 - Animate the real-time movement of jello cube
